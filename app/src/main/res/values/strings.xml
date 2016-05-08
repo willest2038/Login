@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_name">帳號：</string>
+    <string name="login_name_msg">請輸入帳號</string>
+    <string name="login_password">密碼：</string>
+    <string name="login_password_msg">請輸入密碼</string>
+    <string name="login_btn_lb1">登入</string>
+</resources>
