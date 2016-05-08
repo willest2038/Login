@@ -131,4 +131,6 @@ public class JNetUtils {
         os.close();
         return state;
     }
+
+    protected  void firstTry(){}
 }
